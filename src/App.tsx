@@ -38,7 +38,7 @@ function App() {
           Experience seamless cryptocurrency trading and management with our comprehensive platform. Built for traders who demand both style and substance.
         </p>
         <a
-          href="https://cryptohub-self.vercel.app/"
+          href="https://cryptohubs-six.vercel.app/"
           className="inline-flex items-center px-8 py-4 text-lg font-semibold rounded-full transition-all transform hover:scale-105"
           style={{ 
             background: 'var(--neon-primary)',
@@ -54,7 +54,7 @@ function App() {
       {/* Features Section */}
       <section className="container mx-auto px-6 py-20">
         <div className="grid md:grid-cols-3 gap-12">
-          <a href="https://cryptohub-self.vercel.app/" className="text-center group">
+          <a href="https://cryptohubs-six.vercel.app/" className="text-center group">
             <div className="bg-gray-900/50 p-6 rounded-2xl transition-all group-hover:scale-105 cursor-pointer"
                  style={{ boxShadow: '0 0 15px var(--neon-primary)' }}>
               <TrendingUp className="w-12 h-12 mx-auto mb-4" style={{ color: 'var(--neon-primary)' }} />
@@ -64,7 +64,7 @@ function App() {
               </p>
             </div>
           </a>
-          <a href="https://cryptohub-self.vercel.app/" className="text-center group">
+          <a href="https://cryptohubs-six.vercel.app/" className="text-center group">
             <div className="bg-gray-900/50 p-6 rounded-2xl transition-all group-hover:scale-105 cursor-pointer"
                  style={{ boxShadow: '0 0 15px var(--neon-primary)' }}>
               <Shield className="w-12 h-12 mx-auto mb-4" style={{ color: 'var(--neon-primary)' }} />
@@ -74,7 +74,7 @@ function App() {
               </p>
             </div>
           </a>
-          <a href="https://cryptohub-self.vercel.app/" className="text-center group">
+          <a href="https://cryptohubs-six.vercel.app/" className="text-center group">
             <div className="bg-gray-900/50 p-6 rounded-2xl transition-all group-hover:scale-105 cursor-pointer"
                  style={{ boxShadow: '0 0 15px var(--neon-primary)' }}>
               <Globe className="w-12 h-12 mx-auto mb-4" style={{ color: 'var(--neon-primary)' }} />
@@ -98,7 +98,7 @@ function App() {
             Join thousands of traders who trust Dapper Server for their cryptocurrency investments.
           </p>
           <a
-            href="https://cryptohub-self.vercel.app/"
+            href="https://cryptohubs-six.vercel.app/"
             className="inline-flex items-center px-8 py-4 text-lg font-semibold rounded-full transition-all transform hover:scale-105"
             style={{ 
               background: 'var(--neon-primary)',
