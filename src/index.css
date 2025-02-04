@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --neon-primary: #00ff94;
+    --neon-secondary: #0ef;
+    --neon-tertiary: #b3ffe6;
+  }
+}
